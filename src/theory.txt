@@ -1,0 +1,3 @@
+1.Workspace and project file structure
+  .when we run comman like ng genarate <projectname>(example ng g my-project)
+   the Angular CLI installs the necessary Angular npm packages and other dependencies in a new workspace
